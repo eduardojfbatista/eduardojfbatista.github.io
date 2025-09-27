@@ -2,6 +2,16 @@
 
 ---
 
+### Subtitle Removal with Deep Learning
+<!--(/sample_page)(/pdf/sample_presentation.pdf)(https://medium.com/@eduardobatista.batista/removing-embedded-subtitles-from-gregg-arakis-three-bewildered-people-in-the-night-using-deep-429661eec998) -->
+
+This project applies deep learning to remove hardcoded subtitles from video frames. Approximately 170,000 frames were processed using Python, TensorFlow, OpenCV, and MoviePy. The workflow included CNN-based subtitle detection, U-Net segmentation of subtitle regions, and inpainting for background reconstruction, followed by video reassembly with synchronized audio. This demonstrates proficiency in applied computer vision, deep learning, and large-scale video processing pipelines.
+
+<img src="images/filled_clip.gif?raw=true"/>
+
+<a href="https://github.com/eduardojfbatista/Restored-Araki-Three-Bewildered-People-In-The-Night">View code on Github</a> | 
+<a href="https://medium.com/@eduardobatista.batista/removing-embedded-subtitles-from-gregg-arakis-three-bewildered-people-in-the-night-using-deep-429661eec998">See article on Medium</a>
+
 ### Stock Portfolio Allocator 
 <!--(/sample_page)(/pdf/sample_presentation.pdf)(http://example.com/) -->
 
